@@ -8,10 +8,10 @@ middle_name:
 last_name: Gupta
 email: t-taneegupta@microsoft.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal portfolio webpage for Taneesh Gupt.
+  Personal portfolio webpage for Taneesh Gupta.
 footer_text: >
 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: taneesh, gupta, nlp, rlhf, iit, microsoft # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦋 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -106,7 +106,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: # your X handle
+x_username: tanishgupta34 # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -373,7 +373,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 5 # leave blank to always show all authors
+max_author_limit: 6 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
