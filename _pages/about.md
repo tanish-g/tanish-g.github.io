@@ -11,7 +11,7 @@ profile:
   more_info: >
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 I am a Research Fellow at Microsoft Research India, working on LLM alignment, preference optimization, and efficient AI architectures. My work revolves around enhancing large language models (LLMs) through multi-preference optimization, reward modeling, and structured efficiency improvements. 
